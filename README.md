@@ -70,20 +70,6 @@ An AI-powered safety platform designed to monitor tourist areas and detect anoma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmili-ai&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sharmili-ai&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmili-ai&layout=compact&theme=tokyonight)
-
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🛡️ Smart Tourist Safety Monitoring System  
