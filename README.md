@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sharmili 👋
 
-<!--
-**sharmili-ai/sharmili-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student  
+Passionate about building real-world systems using AI, Data Science, and Web Technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Current Project
+
+**Smart Tourist Safety Monitoring and Incident Response System**
+
+- Real-time monitoring system  
+- AI-based anomaly detection  
+- Geo-fencing and alert system  
+- Authority & Tourist dashboards  
+
+---
+
+##  Skills
+
+- Python  
+- SQL  
+- Machine Learning  
+- HTML, CSS, JavaScript  
+- Firebase / Node.js  
+
+---
+
+##  Projects
+
+-  Smart Tourist Safety Monitoring System  
+
+---
+
+##  Connect with Me
+
+- LinkedIn: www.linkedin.com/in/sharmili-prabakaran-02a582351
+- GitHub: https://github.com/sharmili-ai/smart-tourist-safety-system  
+
+---
+
+⭐ Always learning, building, and improving.
